@@ -1,0 +1,39 @@
+.container {
+	width: 800px;
+	margin: 40px auto 60px;
+	font-family: Verdana;
+	border-style:solid;
+	padding: 15px;
+}
+
+#pic{
+	float:right;
+	outline-width:5px;
+	outline-style: double;
+
+}
+
+.container .content-objective p{
+	font-style: italic;
+}
+
+.container .content-info{
+	font-weight: bold;
+
+}
+
+.content-objective {
+	border-top: solid;
+	}	
+
+.content-skills-and-abilities {
+	border-top: solid;	
+}
+
+.content-experience {
+	border-top: solid;
+}
+
+.content-education {
+	border-top: solid;	
+}
